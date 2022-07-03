@@ -21,13 +21,13 @@ let movies = [
       name: "raya and the last dragon",
       des:
         "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Accusantium molestias tenetur mollitia perferendis velit recusandae?",
-      image: "images/slider 4.png"
+      image: "images/slider 4.PNG"
     },
     {
       name: "luca",
       des:
         "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Accusantium molestias tenetur mollitia perferendis velit recusandae?",
-      image: "images/slider 5.png"
+      image: "images/slider 5.PNG"
     }
   ];
   
